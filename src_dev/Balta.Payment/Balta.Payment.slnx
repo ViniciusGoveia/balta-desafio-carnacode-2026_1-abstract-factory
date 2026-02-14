@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Balta.Payment.Console/Balta.Payment.Console.csproj" />
+  <Project Path="Balta.Payment.csproj" />
+</Solution>
