@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace Balta.Payment.Interfaces.Processor
+namespace Balta.Payment.Abstractions.Processor
 {
     public interface IPaymentProcessor
     {

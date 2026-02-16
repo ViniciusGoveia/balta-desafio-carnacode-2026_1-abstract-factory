@@ -1,4 +1,4 @@
-﻿using Balta.Payment.Interfaces.Services;
+﻿using Balta.Payment.Abstractions.Services;
 using Balta.Payment.Model.Enums;
 using Balta.Payment.Services;
 

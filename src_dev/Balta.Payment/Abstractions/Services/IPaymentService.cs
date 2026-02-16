@@ -1,9 +1,9 @@
-﻿using Balta.Payment.Interfaces.Logger;
-using Balta.Payment.Interfaces.Processor;
-using Balta.Payment.Interfaces.Validator;
+﻿using Balta.Payment.Abstractions.Logger;
+using Balta.Payment.Abstractions.Processor;
+using Balta.Payment.Abstractions.Validator;
 using Balta.Payment.Model.Enums;
 
-namespace Balta.Payment.Interfaces.Services
+namespace Balta.Payment.Abstractions.Services
 {
     public interface IPaymentService
     {

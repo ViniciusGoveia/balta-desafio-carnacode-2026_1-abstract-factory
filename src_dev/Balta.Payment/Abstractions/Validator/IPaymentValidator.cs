@@ -1,9 +1,6 @@
 ﻿using Balta.Payment.Model.Enums;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Balta.Payment.Interfaces.Validator
+namespace Balta.Payment.Abstractions.Validator
 {
     public interface IPaymentValidator
     {

@@ -1,9 +1,6 @@
-﻿using Balta.Payment.Interfaces.Processor;
+﻿using Balta.Payment.Abstractions.Processor;
 using Balta.Payment.Model.Enums;
 using Balta.Payment.Model.Helpers;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Balta.Payment.Model.Processor
 {

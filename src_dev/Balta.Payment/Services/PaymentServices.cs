@@ -1,15 +1,12 @@
-﻿using Balta.Payment.Interfaces.Logger;
-using Balta.Payment.Interfaces.Processor;
-using Balta.Payment.Interfaces.Services;
-using Balta.Payment.Interfaces.Validator;
+﻿using Balta.Payment.Abstractions.Logger;
+using Balta.Payment.Abstractions.Processor;
+using Balta.Payment.Abstractions.Services;
+using Balta.Payment.Abstractions.Validator;
 using Balta.Payment.Model.Enums;
 using Balta.Payment.Model.Helpers;
 using Balta.Payment.Model.Logger;
 using Balta.Payment.Model.Processor;
 using Balta.Payment.Model.Validator;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace Balta.Payment.Services
 {

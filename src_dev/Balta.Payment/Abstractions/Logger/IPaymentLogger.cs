@@ -1,9 +1,6 @@
 ﻿using Balta.Payment.Model.Enums;
-using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace Balta.Payment.Interfaces.Logger
+namespace Balta.Payment.Abstractions.Logger
 {
     public interface IPaymentLogger
     {
